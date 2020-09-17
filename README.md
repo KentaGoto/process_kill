@@ -6,3 +6,6 @@ This code is an example of specifyed the process name (EXCEL.EXE, firefox.exe) a
 ## Requirements  
 - Windows  
 - grep  
+
+## License
+MIT
