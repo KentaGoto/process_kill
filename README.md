@@ -9,3 +9,6 @@ This code is an example of specifyed the process name (EXCEL.EXE, firefox.exe) a
 
 ## License
 MIT
+
+## Author  
+Kenta Goto
